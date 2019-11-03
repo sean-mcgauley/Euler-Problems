@@ -1,6 +1,6 @@
 #! python
 
-# a is trialing number, b is previous number + current number
+# a is trailing number, b is previous number + current number
 a, b = 1, 1
 # total of numbers
 total = 0
